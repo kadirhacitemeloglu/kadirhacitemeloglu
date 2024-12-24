@@ -31,6 +31,6 @@ I'm Kadir, a passionate QA engineer diving into backend development and web tech
 - 🔄 Contribute to open-source projects.
 
 ## 😄 Fun Facts
-- 🎮 Hardcore gamer (RPGs and FPS are my jam).
+- 🎮 Hardcore gamer (RPGs and ARPGs are my jam).
 - ⚽ Football lover!
 
