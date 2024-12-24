@@ -23,7 +23,6 @@ I'm Kadir, a passionate QA engineer diving into backend development and web tech
 
 ## 🚀 Featured Projects
 - [Bookify](https://github.com/kadirhacitemeloglu/bookify): A library management system for book lovers.
-- [Todo App](https://github.com/kadirhacitemeloglu/todo-app): A simple task management app built with Java and Spring Boot.
 
 ## 🎯 Current Goals
 - 🌱 Master **Robot Framework** for automation testing.
