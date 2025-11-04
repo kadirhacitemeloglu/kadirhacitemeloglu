@@ -22,7 +22,7 @@ I'm Kadir, a passionate QA engineer diving into backend development and web tech
 ![Kadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadirhacitemeloglu&show_icons=true&theme=dark)
 
 ## 🚀 Featured Projects
-- [Bookify](https://github.com/kadirhacitemeloglu/bookify): A library management system for book lovers.
+- [eBabyTracker]
 
 ## 🎯 Current Goals
 - 🌱 Master **Robot Framework** for automation testing.
